@@ -1,0 +1,34 @@
+65	Brasileira	http://hidrografia.agpse.gob.ar:53880/ehmail/brasileira.htm
+66	Oyarvide	http://hidrografia.agpse.gob.ar:53880/ehmail/oyarvide.htm
+54	Magdalena	http://hidrografia.agpse.gob.ar:53880/Magdalena/index.html
+60	La Plata	http://hidrografia.agpse.gob.ar:53880/LaPlata/index.html
+97	Buenos Aires2	http://hidrografia2.agpse.gob.ar/buenosaires1erespigon/index.html
+64	Baliza Mitre	http://hidrografia.agpse.gob.ar:53880/BalizaMitre/index.html
+34	Braga	http://hidrografia.agpse.gob.ar:53880/Braga/index.html
+40	Zarate	http://hidrografia.agpse.gob.ar:53880/zarate/index.html
+91	Las Rosas	http://hidrografia.agpse.gob.ar:53880/LasRosas/index.html
+72	Baradero	http://hidrografia.agpse.gob.ar:53880/Baradero/index.html
+42	Bifurcacion	http://hidrografia.agpse.gob.ar:53880/Baradero/index.html
+90	San Pedro	http://hidrografia.agpse.gob.ar:53880/SanPedro/index.html
+95	Ramallo	http://hidrografia2.agpse.gob.ar/Ramallo/index.html
+29	San Nicolas	http://hidrografia2.agpse.gob.ar/SanNicolas/index.html
+30	Villa Constitucion	http://hidrografia2.agpse.gob.ar/VillaConstitucion/index.html
+27	Rosario	http://hidrografia2.agpse.gob.ar/Rosario/index.html
+99	San Lorenzo	http://hidrografia2.agpse.gob.ar/SanLorenzo/index.html
+19	Parana	http://hidrografia2.agpse.gob.ar/Parana/index.html
+2	Santa Fe	http://hidrografia.agpse.gob.ar:53880/SantaFe/index.html
+5	Hernandarias	http://hidrografia2.agpse.gob.ar/Hernandarias/index.html
+6	Santa Elena	http://hidrografia.agpse.gob.ar:53880/SantaElena/index.html
+7	La Paz	http://hidrografia2.agpse.gob.ar/LaPaz/index.html
+10	Reconquista	http://hidrografia2.agpse.gob.ar/Reconquista/index.html
+9	Goya	http://hidrografia2.agpse.gob.ar/Goya/index.html
+11	Bella Vista	http://hidrografia2.agpse.gob.ar/BellaVista/index.html
+12	Empedrado	http://hidrografia2.agpse.gob.ar/Empedrado/index.html
+16	Barranqueras	http://hidrografia2.agpse.gob.ar/Barranqueras/index.html
+13	Corrientes	http://hidrografia2.agpse.gob.ar/Corrientes/index.html
+4	Paso de La Patria	http://hidrografia2.agpse.gob.ar/PasodelaPatria/index.html
+93	Carabelitas	http://hidrografia.agpse.gob.ar:53880/Carabelitas/index.html
+50	Ibicuy	http://hidrografia2.agpse.gob.ar/Ibicuy/index.html
+94	Desembocadura	http://hidrografia.agpse.gob.ar:53880/Desembocadura/index.html
+92	Brazo Largo	http://hidrografia.agpse.gob.ar:53880/BrazoLargo/index.html
+23	San Clemente	http://hidrografia.agpse.gob.ar:53880/SanClemente/index.html
